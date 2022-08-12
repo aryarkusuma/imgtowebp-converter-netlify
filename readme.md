@@ -5,7 +5,7 @@
 - (*this codebase is intended to be hosted on netlify*)
 
 ### has been implemented on
-![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)](https://iwebp.projectxi.my.id/)
 
 ### Endpoint
 #### *Only Converting Image*
