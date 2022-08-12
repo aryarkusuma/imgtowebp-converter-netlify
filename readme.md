@@ -20,7 +20,6 @@
 #### *Example* : [Click this](http://webp.projectxi.my.id/api/imageconv/pepe?url=https://pbs.twimg.com/media/ExwlywDXMAAYI_H.jpg "Click this")
 
 ### Future milestones
-- Adding quality, resolution, and rotate adjustment API
 - Adding input image metadata API
 
 ***soon gonna push the code***
