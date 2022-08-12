@@ -1,7 +1,7 @@
 # Webp Converter API
 ##### Converting image to webp format, inspired by statically.io image api by Frans Allen
 
-- Build on the top of Sharp.js for the image proccessing
+- Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing
 - this is intended to be hosted on netlify
 
 #### *Endpoint*
