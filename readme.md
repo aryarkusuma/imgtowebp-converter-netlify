@@ -7,8 +7,7 @@
 #### *Endpoint*
 > yourdomain.com/api/imageconv/:outputname?url=:url
 
-*Example*
-[Click this](http://webp.projectxi.my.id/api/imageconv/pepe?url=https://pbs.twimg.com/media/ExwlywDXMAAYI_H.jpg "Click this")
+#### *Example* : [Click this](http://webp.projectxi.my.id/api/imageconv/pepe?url=https://pbs.twimg.com/media/ExwlywDXMAAYI_H.jpg "Click this")
 
 ### Future milestones
 - Adding quality, resolution, and rotate adjustment API
