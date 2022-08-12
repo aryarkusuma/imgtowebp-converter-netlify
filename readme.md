@@ -5,8 +5,6 @@
 - *this codebase is intended to be hosted on netlify*
 
 #### *Endpoint*
-> yourdomain.com/api/imageconv/:outputname?width=:width&heigth=:height&url=:url
-
 #### *Only Converting Image*
 > yourdomain.com/api/imageconv/:outputname?url=:url
 
