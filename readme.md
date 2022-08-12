@@ -1,5 +1,5 @@
 # Webp Converter API
-######Converting image to webp format, inspired by statically.io image api by Frans Allen
+#####Converting image to webp format, inspired by statically.io image api by Frans Allen
 
 - Build on the top of Sharp.js for the image proccessing
 
