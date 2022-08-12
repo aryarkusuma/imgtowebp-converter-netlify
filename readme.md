@@ -18,7 +18,7 @@
 #### Resizing and Converting Image (by Width)
 > yourdomain.com/api/imageconv/:outputname?width=:width&url=:url
 
-#### *Example* : [Click this](https://webp.projectxi.my.id/api/imageconv/pepe?width=123&height=123&url=https://raw.githubusercontent.com/aryarkusuma/aryarkusuma/main/png-clipart-pepe-the-frog-smiling-illustration-pepe-the-frog-video-game-warframe-meme-pepe-the-frog-sticker-game-food-thumbnail-removebg-preview%20(1).png)
+#### *Example* : [Click this](https://iwebp.projectxi.my.id/api/imageconv/pepe?width=123&height=123&url=https://raw.githubusercontent.com/aryarkusuma/aryarkusuma/main/png-clipart-pepe-the-frog-smiling-illustration-pepe-the-frog-video-game-warframe-meme-pepe-the-frog-sticker-game-food-thumbnail-removebg-preview%20(1).png)
 
 ### Future milestones
 - Adding input image metadata API 
