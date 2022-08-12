@@ -1,5 +1,5 @@
-# Webp Converter API
-##### Converting image to webp format, inspired by statically.io image api by Frans Allen
+# Webp Resizer-Converter API
+##### Resizing-Converting image to webp format, inspired by statically.io image api by Frans Allen
 
 - Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing
 - *this codebase is intended to be hosted on netlify*
