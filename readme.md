@@ -4,7 +4,7 @@
 - Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing
 - *this codebase is intended to be hosted on netlify*
 
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/gpob.svg)](https://webp.projectxi.my.id/)
+![Website](https://img.shields.io/website?label=webp.projectxi.my.id&url=https%3A%2F%2Fwebp.projectxi.my.id)
 
 ### Endpoint
 #### *Only Converting Image*
