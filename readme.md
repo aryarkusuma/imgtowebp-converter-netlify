@@ -2,7 +2,7 @@
 ##### Resizing-Converting image to webp format, inspired by statically.io image api by Frans Allen
 
 - Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing
-- *this codebase is intended to be hosted on netlify*
+- (*this codebase is intended to be hosted on netlify*)
 
 ### has been implemented on
 [![Website](https://img.shields.io/website?label=webp.projectxi.my.id&url=https%3A%2F%2Fwebp.projectxi.my.id)](https://webp.projectxi.my.id/)
