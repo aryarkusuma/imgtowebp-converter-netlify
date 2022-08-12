@@ -5,7 +5,7 @@
 - this is intended to be hosted on netlify
 
 #### *Endpoint*
-> yourdomain.com/api/imageconv/:outputname?url=:url**
+> yourdomain.com/api/imageconv/:outputname?url=:url
 
 *Example*
 [Click this](http://webp.projectxi.my.id/api/imageconv/pepe?url=https://pbs.twimg.com/media/ExwlywDXMAAYI_H.jpg "Click this")
