@@ -11,7 +11,7 @@
 #### *Resizing and Converting Image*
 > yourdomain.com/api/imageconv/:outputname?width=:width&heigth=:height&url=:url
 #### Height
-> yourdomain.com/api/imageconv/:outputname?heigth=:height&url=:url
+> yourdomain.com/api/imageconv/:outputname?height=:height&url=:url
 #### Width
 > yourdomain.com/api/imageconv/:outputname?width=:width&url=:url
 
