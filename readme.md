@@ -3,6 +3,8 @@
 
 - Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing ( pls read the diffrent machine arch installation of Sharp(js) )
 - (*this codebase is intended to be hosted on netlify*)
+- still using node-patch^2.3.0
+
 
 ### has been implemented on
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)](https://iwebp.projectxi.my.id/)
