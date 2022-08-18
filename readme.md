@@ -25,5 +25,5 @@ notes:
 
 ### Future milestones
 - Adding input image metadata API 
-
+- Adding features to put converted images in redis ( mostlikely unnessecessry and dumb but wwhatever )
 ***soon gonna push the code***
