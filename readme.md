@@ -4,7 +4,6 @@
 notes: 
 - Build on the top of [Sharp(js)](https://github.com/lovell/sharp) for the image proccessing ( pls read the diffrent machine arch installation of Sharp(js) )
 - (*this codebase is intended to be hosted on netlify*)
-- still using node-patch^2.3.0
 
 
 ### has been implemented on
