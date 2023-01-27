@@ -23,5 +23,3 @@ notes:
 
 #### *Example* : [Click this](https://iwebp.projectxi.my.id/api/imageconv/pepe?width=123&height=123&url=https://raw.githubusercontent.com/aryarkusuma/aryarkusuma/main/png-clipart-pepe-the-frog-smiling-illustration-pepe-the-frog-video-game-warframe-meme-pepe-the-frog-sticker-game-food-thumbnail-removebg-preview%20(1).png)
 
-***soon gonna push the code***
-( If you really wanted the codebase you may contact me thru my linkedin/email )
