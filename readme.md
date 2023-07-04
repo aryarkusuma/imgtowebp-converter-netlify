@@ -1,4 +1,4 @@
-# Image (Resizer-Converter) to Webp format ( restful api )
+# Image (Resizer-Converter) to Webp format
 ##### Resizing-Converting image to webp format, inspired by statically.io image api by Frans Allen
 
 notes: 
