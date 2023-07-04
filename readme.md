@@ -7,7 +7,7 @@ notes:
 
 
 ### ***Click this to redirect you to the website***
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)](https://the-great-ark1109-site.netlify.app/)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fthe-great-ark1109-site.netlify.app/%2F)](https://the-great-ark1109-site.netlify.app/)
 
 ### 
 ### Endpoint
