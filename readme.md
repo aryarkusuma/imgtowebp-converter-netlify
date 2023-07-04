@@ -7,19 +7,19 @@ notes:
 
 
 ### ***Click this to redirect you to the website***
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)](https://iwebp.projectxi.my.id/)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fiwebp.projectxi.my.id%2F)](https://the-great-ark1109-site.netlify.app/)
 
 ### 
 ### Endpoint
 #### *Only Converting Image*
-> yourdomain.com/api/imageconv/:outputname?url=:url
+> /api/imageconv/:outputname?url=:url
 
 #### *Resizing and Converting Image*
-> yourdomain.com/api/imageconv/:outputname?width=:width&heigth=:height&url=:url
+> /api/imageconv/:outputname?width=:width&heigth=:height&url=:url
 #### Resizing and Converting Image (by Height)
-> yourdomain.com/api/imageconv/:outputname?height=:height&url=:url
+> /api/imageconv/:outputname?height=:height&url=:url
 #### Resizing and Converting Image (by Width)
-> yourdomain.com/api/imageconv/:outputname?width=:width&url=:url
+> /api/imageconv/:outputname?width=:width&url=:url
 
-#### *Example* : [Click this](https://iwebp.projectxi.my.id/api/imageconv/pepe?width=123&height=123&url=https://raw.githubusercontent.com/aryarkusuma/aryarkusuma/main/png-clipart-pepe-the-frog-smiling-illustration-pepe-the-frog-video-game-warframe-meme-pepe-the-frog-sticker-game-food-thumbnail-removebg-preview%20(1).png)
+#### *Example* : [Click this](https://the-great-ark1109-site.netlify.app/api/imageconv/pepe?width=123&height=123&url=https://raw.githubusercontent.com/aryarkusuma/aryarkusuma/main/png-clipart-pepe-the-frog-smiling-illustration-pepe-the-frog-video-game-warframe-meme-pepe-the-frog-sticker-game-food-thumbnail-removebg-preview%20(1).png)
 
