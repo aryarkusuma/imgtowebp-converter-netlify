@@ -10,7 +10,7 @@
 
 ### 
 ### Endpoint
-#### *Only Converting Image*
+#### *Converting Image*
 > /api/imageconv/:outputname?url=:url
 
 #### *Resizing and Converting Image*
